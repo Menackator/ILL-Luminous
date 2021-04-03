@@ -71,9 +71,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"265f28a8-a0c6-4319-8d4b-ca1462c10d5a","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Character",
+    "path": "folders/Sprites/Character.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Luminous_v2",

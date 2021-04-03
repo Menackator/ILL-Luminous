@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_SecurityOrb",
-    "path": "sprites/spr_SecurityOrb/spr_SecurityOrb.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_Enemy_Par",
-    "path": "objects/obj_Enemy_Par/obj_Enemy_Par.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,9 +17,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -33,7 +25,7 @@
     "path": "folders/Objects/Enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_SecurityOrb",
+  "name": "obj_Enemy_Par",
   "tags": [],
   "resourceType": "GMObject",
 }
